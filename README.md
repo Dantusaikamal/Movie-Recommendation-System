@@ -1,4 +1,9 @@
 # Movie-Recommendation-System
-A simple recommendation system to recommend movies from a CSV file.
+A content-based recommendation system trained from over 50,000 movies.
 
-We're importing data through a CSV file, converting the textual data into tokens , removing stop words, converting tokens into vectors, then using cosine similarity to get a list of similarities, then use a function to slice the list and get the list of highest recommended movies :) 
+Steps included: 
+- Importing data through a CSV file,
+- Converting the textual data into tokens, 
+- Removing stop words, converting tokens into vectors, 
+- Using cosine similarity to get a list of similarities, 
+- Then use a function to slice the list and get the list of highest recommended movies :) 
