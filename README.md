@@ -1,4 +1,7 @@
 # Movie-Recommendation-System
+
+<img src="https://github.com/Dantusaikamal/Movie-Recommendation-System/blob/main/Movie%20recommendation.gif" alt="drawing" width="600px" height="380px"/>
+
 A content-based recommendation system trained from over 50,000 movies.
 
 Steps included: 
